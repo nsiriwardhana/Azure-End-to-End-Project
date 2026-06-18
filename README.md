@@ -1,5 +1,3 @@
-# Adventure-Works-Data-Engineering-End-to-End-Project
-
 # End-to-End Azure Data Engineering Project
 
 This project demonstrates an end-to-end Azure data engineering pipeline using the AdventureWorks dataset and medallion architecture.
